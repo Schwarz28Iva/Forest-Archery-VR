@@ -1,0 +1,14 @@
+# OS / editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Unity-generated folders (in case this showcase is ever opened in Unity)
+Library/
+Temp/
+Obj/
+Logs/
+UserSettings/
+Build/
+Builds/
